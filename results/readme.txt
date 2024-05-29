@@ -1,0 +1,2 @@
+For readability, the following should be added to the final generated file and changed to csv format:
+id,gender,anchor_age,elixhauser,hypertension,diabetes,heart_failure,ckd,cancer,copd,heart_rate,mbp,temperature,resp_rate,spo2,gcs,sofa,wbc,neutrophils_abs,lymphocytes_abs,platelet,hemoglobin,alt,ast,bilirubin_total,albumin,creatinine,bun,glucose,potassium,sodium,calcium,chloride,ph,po2,pco2,pao2fio2ratio,lactate,pt,ptt,hydrocortisone,cat_1,cat_2,cat_3,liquid,Q,new_hydrocortisone,new_cat_1,new_cat_2,new_cat_3,new_liquid,new_Q,death
